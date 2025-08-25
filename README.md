@@ -69,7 +69,7 @@ This will:
 
 ## 📊 Sample Output
 
-```
+
 --- Cross-validation Results ---
 RMSE scores: [51039.08053738 48741.94041426 45940.42771745 50501.41453432
  47387.7896427  49595.25845731 51625.68567717 48865.70709952
@@ -96,15 +96,15 @@ New data:
 
 [5 rows x 9 columns]
 
----
 
-## 📌 Future Improvements
+
+ 📌 Future Improvements
 
 * Try **GridSearchCV** or **RandomizedSearchCV** for hyperparameter tuning
 * Add more ML models (Linear Regression, Gradient Boosting, etc.) for comparison
 * Deploy with **Flask / FastAPI / Streamlit** for live demo
 
----
+
 
 
 
